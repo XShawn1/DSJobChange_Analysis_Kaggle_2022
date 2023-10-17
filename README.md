@@ -7,5 +7,5 @@ Data of this project is from Kaggle, the link to the data is as follows: https:/
 ## Research Objectives & Approaches
 The original project was an exploratory analysis based on a dataset and was required to have 5 questions that cover as many diverse visualisations as possible. In the repository, the report was amended by adding essential explanations and analysis that put 5 individual parts together seamlessly.
 **Data Preprocessing Tool**: Python
-**BI Tools**: Plotly(Python) for the pie chart, Tableau for the other 4 charts
+**BI Tools**: Plotly(Python) for the radar chart, Tableau for the other 4 charts
 ## Research Results & Insights
